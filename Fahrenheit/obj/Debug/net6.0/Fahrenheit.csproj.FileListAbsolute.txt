@@ -1,0 +1,15 @@
+D:\CSharp\Console\Fahrenheit\bin\Debug\net6.0\Fahrenheit.exe
+D:\CSharp\Console\Fahrenheit\bin\Debug\net6.0\Fahrenheit.deps.json
+D:\CSharp\Console\Fahrenheit\bin\Debug\net6.0\Fahrenheit.runtimeconfig.json
+D:\CSharp\Console\Fahrenheit\bin\Debug\net6.0\Fahrenheit.dll
+D:\CSharp\Console\Fahrenheit\bin\Debug\net6.0\Fahrenheit.pdb
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\Fahrenheit.csproj.AssemblyReference.cache
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\Fahrenheit.AssemblyInfoInputs.cache
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\Fahrenheit.AssemblyInfo.cs
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\Fahrenheit.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\Fahrenheit.dll
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\refint\Fahrenheit.dll
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\Fahrenheit.pdb
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\Fahrenheit.genruntimeconfig.cache
+D:\CSharp\Console\Fahrenheit\obj\Debug\net6.0\ref\Fahrenheit.dll
